@@ -6,12 +6,12 @@
 ### Table of Contents
 
 
-|  **Portfolio List**  |  **IDEAL FOR**  | ** TECH USED** |
+|  **Portfolio List**  |  **IDEAL FOR**  | **TECH USED** |
 |---|---|---|
 | [Minimalistic portfolio](https://github.com/ZiaCodes/vikash-web) | PhotoGrapher and Artist | HTML CSS JS BOOTSRAP |
 | [Showcase portfolio](https://github.com/ZiaCodes/ZiAhmed) | Photgrapher and Artist | HTML CSS JS |
-| Dev Portfolio](https://github.com/ZiaCodes/My-portfolio) | Devlopers and UI Designers | JQuery Bootstrap CSS JS HTML |
-| Nested Portfolio(https://github.com/ZiaCodes/Portfolio-Web-Design) | Devlopers and Designers | HTML CSS JS PHP CDN |
+| [Dev Portfolio](https://github.com/ZiaCodes/My-portfolio) | Devlopers and UI Designers | JQuery Bootstrap CSS JS HTML |
+| [Nested Portfolio](https://github.com/ZiaCodes/Portfolio-Web-Design) | Devlopers and Designers | HTML CSS JS PHP CDN |
 
 
 * * More beautiful and unique concept Design are coming soon....
