@@ -5,6 +5,6 @@
 
 ### Table of Contents
 
-| Portfolio List                                                     | Translation                                                                                                                                                                          |                 | Status        | Tech Used to Designed the whole website |
+| Portfolio List                                                     | Translation                                                                                                                                                                          |                 | IDEAL FOR        | Tech Used to Designed the whole website |
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- | ------------- | ----------------------------------------------------------------------------------------------------------- |
-| Minimalistc Portfolio(https://github.com/ZiaCodes/vikash-web)                         |                                                                                                                                                                                      | =PhotoGrapher/Artist | HTML,CSS,JS,bootsrap  |
+| [Minimalistic PortFolio](https://github.com/ZiaCodes/vikash-web)                         |                                                                                                                                                                                      | PhotoGrapher/Artist |           |HTML,CSS,JS,bootsrap  |
