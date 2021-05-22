@@ -8,12 +8,13 @@
 
 |  **Portfolio List**  |  **IDEAL FOR**  | **DEMO** | **TECH USED** |
 |---|---|---|---|
-| [Minimalistic portfolio](https://github.com/ZiaCodes/vikash-web) | PhotoGrapher and Artist | VIEW|HTML CSS JS BOOTSRAP |
-| [Showcase portfolio](https://github.com/ZiaCodes/ZiAhmed) | Photgrapher and Artist | VIEW | HTML CSS JS |
+| [Minimalistic portfolio](https://github.com/ZiaCodes/minimal-web) | PhotoGrapher and Artist | [VIEW](https://zia15585.netlify.app/)| HTML CSS JS BOOTSRAP |
+| [Showcase portfolio](https://github.com/ZiaCodes/ZiAhmed) | Photgrapher and Artist | [VIEW](https://imgshowroom.netlify.app/) | HTML CSS JS |
 | [Dev Portfolio](https://github.com/ZiaCodes/My-portfolio) | Devlopers and UI Designers | [VIEW](https://designfor.netlify.app/) |JQuery Bootstrap CSS JS HTML |
-| [Nested Portfolio](https://github.com/ZiaCodes/Portfolio-Web-Design) | Devlopers and Designers | VIEW | HTML CSS JS PHP CDN |
+| [Nested Portfolio](https://github.com/ZiaCodes/Portfolio-Web-Design) | Devlopers and Designers |[VIEW](https://syed.codes) | HTML CSS JS PHP CDN |
 | [Ubuntu Styled portfolio](https://github.com/ZiaCodes/PortfolioDesignbasedon_ubuntuOs_STyle) | Devlopers and hackers | [VIEW](https://ziacodes-terminal.netlify.app/) | HTML CSS JS PHP | 
 | [3D Portfolio](https://github.com/ZiaCodes/vite-threejs) | Dev & Designers | VIEW | HTML CSS JS THREEJS VITEJS WEBGL|
+| [Phtography Web](https://github.com/ZiaCodes/Clint-work) | PhotoGraphy & Art | [VIEW](https://chandrima.netlify.app/) | HTML CSS JS|
 
 
 * * More beautiful and unique concept Design are coming soon....
