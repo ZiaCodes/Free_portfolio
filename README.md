@@ -6,7 +6,7 @@
 ### Table of Contents
 
 
-|  **Portfolio List**  |  **IDEAL FOR**  | **DEMO** | **TECH USED** |
+|  **Portfolio List**  |  **IDEAL FOR**  | **LIVE DEMO** | **TECH USED** |
 |---|---|---|---|
 | [Minimalistic portfolio](https://github.com/ZiaCodes/minimal-web) | PhotoGrapher and Artist | [VIEW](https://zia15585.netlify.app/)| HTML CSS JS BOOTSRAP |
 | [Showcase portfolio](https://github.com/ZiaCodes/ZiAhmed) | Photgrapher and Artist | [VIEW](https://imgshowroom.netlify.app/) | HTML CSS JS |
