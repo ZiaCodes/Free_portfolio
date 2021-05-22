@@ -23,5 +23,5 @@
 * Get me online here 
 
 <p align="center">
-  <a href="#">Facebook</p> <a href="#">Facebook</p>  <a href="#">Facebook</p>  <a href="#">Facebook</p>  <a href="#">Facebook</p> 
+  <a href="#">Facebook</a> <a href="#">Facebook</a>  <a href="#">Facebook</a>  <a href="#">Facebook</a>  <a href="#">Facebook</a>
   </p>
