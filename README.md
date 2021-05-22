@@ -23,5 +23,5 @@
 * Get me online here 
 
 <p align="center">
-  <a href="#">Facebook</a> <a href="#">Facebook</a>  <a href="#">Facebook</a>  <a href="#">Facebook</a>  <a href="#">Facebook</a>
+  <a href="https://www.facebook.com/syed.ziauddin.549221/">Facebook</a>   <a href="gram.com/ziaxdev/">Instagram</a>    <a href="https://twitter.com/ziaxdev">Twitter</a>
   </p>
