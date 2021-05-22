@@ -7,7 +7,7 @@
 
 
 |  **Portfolio List**  |  **IDEAL FOR**  | **DEMO** | **TECH USED** |
-|---|---|---|
+|---|---|---|---|
 | [Minimalistic portfolio](https://github.com/ZiaCodes/vikash-web) |       | PhotoGrapher and Artist | HTML CSS JS BOOTSRAP |
 | [Showcase portfolio](https://github.com/ZiaCodes/ZiAhmed) |              | Photgrapher and Artist | HTML CSS JS |
 | [Dev Portfolio](https://github.com/ZiaCodes/My-portfolio) |              | Devlopers and UI Designers | JQuery Bootstrap CSS JS HTML |
