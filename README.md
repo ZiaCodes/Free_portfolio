@@ -23,7 +23,7 @@
 ---
 
 
-<p align = "centerr"> Connect with me </p>
+<p align="center"> <strong>CONNECT WITH ME</strong> </p>
 
 <p align="center">
   <a href="https://www.facebook.com/syed.ziauddin.549221/">Facebook</a>   <a href="gram.com/ziaxdev/">Instagram</a>    <a href="https://twitter.com/ziaxdev">Twitter</a>
