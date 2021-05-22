@@ -1,6 +1,6 @@
 ## Free Portfolio custom Design
 
-> This repo is for those who needs a professional Portfolio Design and it will be an awesome plain ,2d and 3D portfolio for Developers ,Designers and others professional like Photographer ,artist etc. This is Dedicated to those  professional who don't have time to Design their own portfolio themselves. So I come up with this Idea to make my all portfolio Design Free to use from anywhere.
+> This repo is for those who needs a professional Portfolio Design and it will be an awesome plain ,2d and 3D portfolio for Developers ,Designers and others professional like Photographer ,artist etc. This is Dedicated to those  professional who don't have time to Design their own portfolio themselves. So I come up with this Idea to make my all portfolio Design Free to use from anywhere without any backlink & copyright ! Go ahead and use it and spend your time building something useful that will impact the people globally.
 
 
 ### Table of Contents
