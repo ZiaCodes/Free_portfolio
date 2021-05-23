@@ -32,7 +32,7 @@
   </a> 
   
   
-   <a href="emailto:sz2386@cse.jgec.ac.in">
+   <a href="mailto:sz2386@cse.jgec.ac.in">
     <img src="https://camo.githubusercontent.com/21863a9a063d33b20608be917f5601f309abec90ae5cf5dedea38bb6b55d11ab/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d61696c2e737667" height='25px' width='25px'>
   </a> 
   
