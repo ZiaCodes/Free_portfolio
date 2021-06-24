@@ -9,7 +9,7 @@
 |  **Portfolio List**  |  **IDEAL FOR**  | **LIVE DEMO** | **TECH USED** |
 |---|---|---|---|
 | [Minimalistic portfolio](https://github.com/ZiaCodes/minimal-web) | PhotoGrapher and Artist | [VIEW](https://zia15585.netlify.app/)| HTML CSS JS BOOTSRAP |
-| [Showcase portfolio](https://github.com/ZiaCodes/ZiAhmed) | Photgrapher and Artist | [VIEW](https://imgshowroom.netlify.app/) | HTML CSS JS |
+| [Showcase portfolio](https://github.com/ZiaCodes/ZiAhmed) | Photgrapher and Artist | [VIEW](https://rushali.netlify.app/) | HTML CSS JS |
 | [Dev Portfolio](https://github.com/ZiaCodes/My-portfolio) | Devlopers and UI Designers | [VIEW](https://designfor.netlify.app/) |JQuery Bootstrap CSS JS HTML |
 | [Nested Portfolio](https://github.com/ZiaCodes/Portfolio-Web-Design) | Devlopers and Designers |[VIEW](https://syed.codes) | HTML CSS JS PHP CDN |
 | [Ubuntu Styled portfolio](https://github.com/ZiaCodes/PortfolioDesignbasedon_ubuntuOs_STyle) | Devlopers and hackers | [VIEW](https://ziacodes-terminal.netlify.app/) | HTML CSS JS PHP | 
