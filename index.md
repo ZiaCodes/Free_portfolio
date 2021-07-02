@@ -3,7 +3,7 @@
   <p align="center">
     <a href="https://ziacodes.github.io/Free_portfolio/" target="_blank" >View Demo</a>
     ·
-    <a href="#">Report Bug</a>
+    <a href="mailto:sz2386@gmail.com">Report Bug</a>
     ·
     <a href="#">Request Feature</a>
     ·
