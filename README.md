@@ -1,11 +1,15 @@
-<h1 align="center">FREE PORTFOLIO</h1>
+<h3 align="center">FREE_PORTFOLIO</h3>
 
   <p align="center">
-    <a href="#" target="_blank" >View Demo</a>
+    <a href="https://ziacodes.github.io/Free_portfolio/" target="_blank" >View Demo</a>
     ·
-    <a href="#">Report Bug</a>
+    <a href="mailto:sz2386@gmail.com">Report Bug</a>
     ·
     <a href="#">Request Feature</a>
+    ·
+   <a href ="#">Suggestions</a>
+    .
+   <a href ="#">Feedback</a>
   </p>
 
 > This repo is for those who needs a professional Portfolio with awesome plain ,2d and 3D  Design portfolio with high fidelity.These design is suitable for Developers ,Designers and others professional like Photographer ,artist etc. This is Dedicated to those  professional who don't have time to Design their own portfolio themselves. So I come up with this Idea to Design portfolio which will be Free to use from anywhere without any backlink & copyright ! Go ahead and use it and spend your time building something useful that will impact the people globally.Hit the star button to save for laterr use. 
