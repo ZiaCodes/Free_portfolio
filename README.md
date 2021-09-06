@@ -27,7 +27,7 @@
 | [Ubuntu Styled portfolio](https://github.com/ZiaCodes/PortfolioDesignbasedon_ubuntuOs_STyle) | Devlopers and hackers | [VIEW](https://ziacodes-terminal.netlify.app/) | HTML CSS JS PHP | 
 | [3D Portfolio](https://github.com/ZiaCodes/vite-threejs) | Dev & Designers | VIEW | HTML CSS JS THREEJS VITEJS WEBGL|
 | [Phtography Web](https://github.com/ZiaCodes/Clint-work) | PhotoGraphy & Art | [VIEW](https://chandrima.netlify.app/) | HTML CSS JS|
-
+| [One Page](https://github.com/ZiaCodes/single_page)      | Students          | [View](https://connect4-lake.vercel.app/note.html)| HTML,CSS|
 
 * * More beautiful and unique concept Design are coming soon....
 
